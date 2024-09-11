@@ -8,13 +8,13 @@ Pergi ke laman resmi [Kali Linux Installer Images](https://www.kali.org/get-kali
 ## Langkah 2: Pilih File VirtualBox
 Scroll ke bawah hingga Anda menemukan bagian untuk **VirtualBox**. Di sini, Anda dapat memilih versi **64-bit** atau **32-bit**, sesuaikan dengan spesifikasi komputer atau laptop yang Anda miliki.
 
-![Contoh Tampilan VirtualBox Download](https://github.com/aidilajie/Keamanan_Komputer/blob/main/Screenshot%202024-09-11%20081741.png))
-
 ## Langkah 3: Unduh File
 Klik tombol **Download** di samping versi yang Anda pilih, lalu tunggu hingga proses unduhan selesai.
 
 ## Langkah 4: Ekstrak File Zip
 Setelah proses unduhan selesai, Anda akan mendapatkan file berekstensi `.zip`. Ekstrak file tersebut dan Anda akan menemukan file dengan ekstensi `.vbox`.
+
+![Contoh Tampilan VirtualBox Download](https://github.com/aidilajie/Keamanan_Komputer/blob/main/Screenshot%202024-09-11%20081741.png)
 
 ## Langkah 5: Mulai Instalasi di VirtualBox
 - Klik dua kali file `.vbox` yang telah diekstrak.
@@ -27,5 +27,4 @@ Setelah instalasi selesai, jalankan mesin virtual dan tunggu hingga Kali Linux t
 
 ## Langkah 7: Selesai!
 Sekarang Anda sudah berhasil menginstal Kali Linux di VirtualBox di sistem Windows Anda. Selamat mencoba!
-
 
